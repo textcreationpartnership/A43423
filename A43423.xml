@@ -1,0 +1,493 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lent, 1638 the learned reading of John Herne Esq., late of the Honourable Society of Lincolns-Inne, upon the Statute of 23 H. 8 cap. 3 concerning commissions of sewers / translated out of the French manusctipt [sic].</title>
+            <author>Herne, John, fl. 1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43423</idno>
+            <idno type="STC">Wing H1572</idno>
+            <idno type="STC">ESTC R12243</idno>
+            <idno type="EEBO-CITATION">13016572</idno>
+            <idno type="OCLC">ocm 13016572</idno>
+            <idno type="VID">96554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96554)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 741:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lent, 1638 the learned reading of John Herne Esq., late of the Honourable Society of Lincolns-Inne, upon the Statute of 23 H. 8 cap. 3 concerning commissions of sewers / translated out of the French manusctipt [sic].</title>
+                  <author>Herne, John, fl. 1644.</author>
+                  <author>Herne, John, fl. 1660.</author>
+               </titleStmt>
+               <extent>[6], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbanke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>"Another John Herne ... appears to have been the elder Herne's son, and the translator of the reading"--Cf. DNB.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96554:1" rendition="simple:additions"/>
+            <p>
+               <hi>LENT,</hi> 1638.</p>
+            <p>The Learned READING OF John Herne Eſq Late of the Honourable Society OF LINCOLNS-INNE UPON The Statute of 23 <hi>H.</hi> 8. <hi>Cap.</hi> 3. CONCERNING COMMISSIONS OF SEWERS.</p>
+            <p>Tranſlated out of the <hi>French</hi> Manuſctipt.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matthew Walbanke,</hi> at Grayes-Inne-Gate in <hi>Holborn,</hi> 1659.</p>
+         </div>
+         <div type="bookplate">
+            <pb facs="tcp:96554:2"/>
+            <p>
+               <figure>
+                  <head>The Right Hon.<hi rend="sup">ble</hi> S. Thomas Trevor Knight Lord Chief Iuſtice of Her Majeſties Court of Com<g ref="char:cmbAbbrStroke">̄</g>on Pleas &amp; one of Her Majeſties Moſt Hon.<hi rend="sup">ble</hi> Privy Council 1702</head>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96554:2"/>
+            <head>TO THE RIGHT HONORABLE, AND RIGHT WORSHIPFUL, THE COMMISSIONERS OF SEVVERS FOR The City oſ <hi>VVeſtminster,</hi> and parts neare adjacent.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Here preſent you with a Reading, the Au<g ref="char:EOLhyphen"/>thor whereof may be known to moſt of you; it is not for me to write Ercomi<g ref="char:EOLhyphen"/>ums on his worth; for his eminency f<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> o<g ref="char:EOLhyphen"/>ther learning, beſides his great knowledge that appears in this, ſpeaks him more to the judicious and intelligent then I dare take upon me to expreſs, leſt I do too little, knowing my inability of doing him honor enough:</p>
+            <pb facs="tcp:96554:3"/>
+            <p>I humbly beg your pardon in obtruding ſo rude a Compoſure, (as to the tranſlation) upon your Pa<g ref="char:EOLhyphen"/>tronage, the ſenſe of my own weakneſs, making me conſcious of ſome miſhaps, but reflecting upon the greatneſs of your judgements and learning in this Law, together with your candor to my years, will firſt recti<g ref="char:EOLhyphen"/>fie and then pardon: Let the world ſhoot their bolts, I have my end if in this or any other act I may be eſtee<g ref="char:EOLhyphen"/>med</p>
+            <closer>
+               <signed>Your humble Servant,</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96554:3"/>
+            <head>TO THE READER</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Can neither find nor learn that ever any but Serjeant <hi>Callis</hi> ever writ up<g ref="char:EOLhyphen"/>on this Statute, therefore this is the ra<g ref="char:EOLhyphen"/>rer. I have that reverence both to the Author and his work, that I profeſſe to my beſt knowledge <hi>I</hi> have not wrong'd him in the tranſlation, but what the ſmal<g ref="char:EOLhyphen"/>leſt judgement may correct. You'l find not much Rhetorick in regard the Law obli<g ref="char:EOLhyphen"/>ges me to ſingular terms.</p>
+            <closer>
+               <salute>Farewel:</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="day">
+            <pb facs="tcp:96554:4"/>
+            <pb n="1" facs="tcp:96554:4" rendition="simple:additions"/>
+            <head>
+               <hi>LENT 1638. The Reading Of that Learned Lawyer Iohn Herne, Eſquire Late of the honourable ſociety of LINCOLNS INNE</hi> 
+               <g ref="char:V">Ʋ</g>pon the <hi>STATUTE</hi> of the <hi>23. H. 8. Cap. 3.</hi> A Genrall <hi>Act</hi> concerning Commisſions of SEVVERS.</head>
+            <p>
+               <seg rend="decorInit">O</seg>UR Soveraigne Lord the King, conſi<g ref="char:EOLhyphen"/>dering the daily great damages and loſ<g ref="char:EOLhyphen"/>ſes which have happened &amp;c. as well by reaſon of the outragious over-flowing ſurges and courſe of the Sea, provided this Act in prevention of that and other incurſions.</p>
+            <p>All Statutes of Sewers are made in aide of the ancient prerogative of the King; and how be it they are penall, as well to the Perſon as to the Frank-tenement of the offender, yet becauſe <hi>interſunt reipublicae,</hi> they ſhall have a large &amp; benigne conſtruction.</p>
+            <pb n="2" facs="tcp:96554:5"/>
+            <p>
+               <note place="margin">6. R. 2. Fith 46. Avow. 122. 5. Rep. Sr. H. <hi>Conſtables</hi> caſe.</note>This Prerogative hath its originall from the Law of Nations, which in truth is the originall of Monarchical Government, and the ſame Law gives to ſuch Gover<g ref="char:EOLhyphen"/>nors <hi>Jura Regalia,</hi> as well in reſpect of ſea as land, as to have Sturgeons, Whale, Wreck, &amp;c.</p>
+            <p>And as to that, the ſtatute that gives the prerogative is but declaratory of the Common Law, and in reſpect of theſe prerogatives the King ought alwayes both as wel upon the ſea as Land, to govern and protect, ſo that alwayes the King was bound <hi>ratione dignitatis Regiae,</hi> to provide for the ſafeguard of his Kingdome &amp;c. and ſo it is recited in the ancient Commiſſion of Sewers;<note place="margin">N. B. 113. a.</note> Sir <hi>Iohn Davis's</hi> Reports caſe of Royall piſcaryes; The principall differences between the ancient Commiſſions, and the Commiſſions grounded upon our ſtatute, are three.</p>
+            <p n="1">1. The firſt is <hi>Enumeratio delicti,</hi> for at the Common Law the commiſſion did not extend but to eight par<g ref="char:EOLhyphen"/>ticular offences, but there are added by this ſtatute da<g ref="char:EOLhyphen"/>mages, by banks, ſtreames, mills, &amp;c. and in concluſion it is penned with theſe generall words, [All annoyan<g ref="char:EOLhyphen"/>ces.]</p>
+            <p n="2">2. <hi>Admenſuratio extenti,</hi> for the commiſſion upon this ſtatute extends (not onely) to maritine parts, but to the reforming all Nuſances in any part of the Realme of <hi>England,</hi> as well of Rivers navigable as not navigable, to ſtreames &amp;c. but alwayes with this Caution that the proceeding tends to a publique good and not to a private benefit; and for this reaſon there ought not to be any impedement to navigation or to a River which by induſ<g ref="char:EOLhyphen"/>try may be made navigable, or for the overflowing of land ſo of rivers newly made for navigation, or dray<g ref="char:EOLhyphen"/>ning for a Countrey, as in <hi>Lincolne-ſhire:</hi> In theſe caſes it concerns the generall benefit of the ſubject, other<g ref="char:EOLhyphen"/>wiſe of private waters, and ſo is it of the Kings high-way,
+<pb n="3" facs="tcp:96554:5"/> which is onely within this ſtatute, and not for the wayes for private uſe among particular perſons.</p>
+            <p n="3">3. Aggravation of the penalty, as by this ſtatute it may be by abatement, fine, impriſonment, &amp;c. ſo that this ſtatute may truly be ſaid to be <hi>quaſi tiranicall,</hi> and yet juſt, for it is but a tyrant oppoſed againſt tyrant <hi>(ſs.)</hi> the rage of the ſea.</p>
+            <p>For explanation of this ſtatute there are to be conſidered the principal &amp; the <hi>verba operativa</hi> within the ſta<g ref="char:EOLhyphen"/>tute.</p>
+            <p>There are ſeaven words reſpecting the meanes <hi>(ſs.)</hi>
+               <list>
+                  <item>
+                     <hi>ad Supervidendum.</hi>
+                  </item>
+                  <item>
+                     <hi>ad Inquirendum.</hi>
+                  </item>
+                  <item>
+                     <hi>ad Tapandum.</hi>
+                  </item>
+                  <item>
+                     <hi>ad Aſſignandum.</hi>
+                  </item>
+                  <item>
+                     <hi>ad Arreſtandum.</hi>
+                  </item>
+                  <item>
+                     <hi>ad Ordinandum.</hi>
+                  </item>
+                  <item>
+                     <hi>ad Determinendum.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>There are three conducing to the end, <hi>(ſl.)</hi> 
+               <list>
+                  <item>
+                     <hi>ad Defendendum.</hi>
+                  </item>
+                  <item>
+                     <hi>ad Amovendum &amp;</hi>
+                  </item>
+                  <item>
+                     <hi>ad Diſtruendum.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Within the exerciſe of this day it ſhall be ſhewn, who may be a good Commiſſioner to make a ſur<g ref="char:EOLhyphen"/>vey,</p>
+            <p>What may be a good enquiry, and what ſhall be a good Taxe.</p>
+            <p>The King is ſupreme Juſtice through all the Realme, &amp; yet he cannot be a good Commiſſioner within this ſta<g ref="char:EOLhyphen"/>tute, for all the fines accrue to the King, &amp; then he ſhould be judge in his own caſe; a blind man cannot be a Com<g ref="char:EOLhyphen"/>miſſioner, for he cannot be a Surveyor, who ought to be in the perſon of a commiſſioner; as in an action of waſte the Sheriff ought to enquire <hi>in propria perſona,</hi> ſo in the caſe of <hi>Rediſſeiſm,</hi> it lyes not in ancient demeſne,<note place="margin">7 H. 35. 61 Fith. Red. 4. rep. 6. 5.</note> but onely be<g ref="char:EOLhyphen"/>fore
+<pb n="4" facs="tcp:96554:6"/> the <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heriffe; for in this caſe the Sheriffe is made Judge by the ſtatute: So here the commis<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ioners ought to be Judges upon their Survey, which is the office of the eyes;<note place="margin">
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 197.</note> and ſo <hi>Mary <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Richmond,</hi> was in commisſi<g ref="char:EOLhyphen"/>on of the p<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace, cited <hi>per</hi> Mr. <hi>Taylor.</hi>
+            </p>
+            <p>In the Survey there ought to be <hi>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtes Occular<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s:</hi> A Feme may be a commiſsioner, and this differs from the caſe of a Juſtice of peace upon the ſtatute of 13. <hi>R.</hi> 2. 7. for our ſtatute is generall and does not deſign any perſon in-particular; Then I do not conceive any naturall diſabili<g ref="char:EOLhyphen"/>ty in a woman, as to a temporall government, though we ſee the is excluded a ſpirituall; Neither is it rare, that temporall Government hath been given to Women as well as men; <hi>Deborah</hi> was Iudge in <hi>Iſrael,</hi> and <hi>Semira<g ref="char:EOLhyphen"/>mis</hi> in <hi>Syria,</hi> and it was adjudged in <hi>B. R.</hi> 5. <hi>Car.</hi> That the office of Marſhall of the court well deſcended to a Feme, and that ſhee might well execute it by her Depu<g ref="char:EOLhyphen"/>ty &amp;c.</p>
+            <p>
+               <hi>Inquirors,</hi> are deſigned by the ſtatute, that they ſhall be <hi>honest and lawfull men;</hi> ſo that a Feme cannot be an Inquiror, for ſhe is not a man: <hi>probus homo</hi> excludes one convicted of <hi>conſpiracy,</hi> attainted of <hi>Perjury</hi> or other no<g ref="char:EOLhyphen"/>torious crimes <hi>Legalis homo</hi> excludes <hi>Alien, Villaine</hi> or man outlawed, &amp;c. 14. <hi>H.</hi> 4. 19. 41.</p>
+            <p>
+               <hi>Perſons to be taxed are,</hi>
+               <list>
+                  <item>
+                     <note place="margin">26. Aſs 28. 36 H. 8. 35</note>1. By Whoſe default ſome damage happens.</item>
+                  <item>
+                     <note place="margin">9. H. 6 53. 2. H. 6. 30. 4 E. 4. 16.</note>2. Who receives any profit adjoyning.</item>
+                  <item>3. Who have damage by the Surrounder.</item>
+               </list> A leaſe for yeers of land left by the ſea to <hi>B.</hi> the remainder to <hi>C.</hi> in fee, Livery is given &amp; taken by atturney within view to the Ocean; a ſea-bank within the Levell is broke, and <hi>B.</hi> &amp; <hi>C.</hi> are taxed with other Levellers, to repair it; <hi>R.</hi> &amp; <hi>C.</hi> have good eſtates, but not well taxed within this Law; A wall for defence of private ground decaying, ſhal not be taxed to be repaired: <hi>He</hi> who hath a ferry-over
+<pb n="5" facs="tcp:96554:6"/> the <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or river ſhal be taxed; otherwiſe of one who hath a private boat. A market, or fayre not within in his ſtatute, for they are but a liberty, and not a profit of the ſoyle; otherwiſe of a common. The new river of <hi>Ware</hi> is not within this ſtatute, becauſe it tends neither to navi<g ref="char:EOLhyphen"/>gation not to dreyning, but by the ſtatute of the 5. <hi>Jac.</hi> there is a ſpeciall proviſion for it.</p>
+            <div type="case">
+               <head>The Caſe.</head>
+               <p>A ſeiſed of an acre of Meadow in <hi>Sale</hi> by tenure from <hi>B.</hi> by 5. <hi>s.</hi> rent, and to repair the wall between that and the ſea. And <hi>C</hi> parſon of the Rectory of <hi>S.</hi> and of a Mill (which could not grind, becauſe of the inundations by defect of the ſaid wall) and of the tyth corn in S. of which mill &amp; tyth-corn the rectory conſiſts only, the wall is bro<g ref="char:EOLhyphen"/>ken, <hi>per impetum maris, B.</hi> diſtreins for the ſervice, <hi>A.</hi> brings a replevin, <hi>B.</hi> avows, and A diſclaimes; ſix Commiſſi<g ref="char:EOLhyphen"/>oners whereof three of the Quorum, are but of the age of 20. years, ſurvey <hi>Die Sabbat.</hi> and there is an inquirie at Court <hi>die Sol.</hi> by 12. Jurors, whereof ſix are outlaw<g ref="char:EOLhyphen"/>ed; The Commiſſioners pull down the mill and tax <hi>A. B.</hi> &amp; <hi>C.</hi> and all having land within the levell to repair the breach. Here is a good ſurvey, a good inquiry, and alſo a good levelling the mill within this law, and alſo there is a good tax of <hi>A.</hi> and all the levellers, but not of <hi>B.</hi> and <hi>C.</hi> within this Law.</p>
+            </div>
+            <div type="points">
+               <head>The Poynts.</head>
+               <p>An Infant may be a good commiſſioner, for there is a ſpeciall truſt by this ſtatute to the Chancellor Treaſurer, &amp;c. and other great perſons to aſſign commiſsioners ac<g ref="char:EOLhyphen"/>cording to their diſcreſsion; but it was objected, that theſe perſons cannot know men in every County, and for that reaſon they often nominate upon information of o<g ref="char:EOLhyphen"/>thers: but it may be anſwered, that they in matters of ſo great importance, will not depend upon ordinary infor<g ref="char:EOLhyphen"/>mation,
+<pb n="6" facs="tcp:96554:7"/> ſo that in effect theſe perſons which have the nomination, judge them ſufficient; And then, they have no time to find.</p>
+               <p>And therefore it differs from the caſes of Dower, Lea<g ref="char:EOLhyphen"/>ſes, &amp;c. which have their preſcribed time; alſo of Ju<g ref="char:EOLhyphen"/>dicial offices, an infant generally is incapable; for offices at common Law, by preſumption of the ſame Law an infant is incapable; otherwiſe is meant by office from the Generall words of the ſtatute; for under the gene<g ref="char:EOLhyphen"/>rall words of the ſtatute an infant is inabled to the ſame office; an infant may qualifie a Chaplaine <hi>Rep.</hi> 4. <hi>Actons</hi> caſe; an infant cannot be a ſteward of a Mannor, but that requires more skill &amp; experience, for the ſame ſtew<g ref="char:EOLhyphen"/>ard ought to enter all pleas;<note place="margin">21. H. 4. 12. 13.</note> he may be Major of a town in the civil law <hi>Coecusſurdus &amp; pubes &amp;c.</hi> are diſabled in re<g ref="char:EOLhyphen"/>ſpect of Judiciall offices, and yet in the ſame Chapter he allows an infant of the age of 20. years to be a compe<g ref="char:EOLhyphen"/>tent Judge, and ſo admiting them diſabled, yet the ſurvey is good <hi>defacto.</hi>
+                  <note place="margin">See ſtat. in H. 4: That no enqueſt ſhal be ta<g ref="char:EOLhyphen"/>ken by tythes out lawed Wil. Scots caſe who pleaded that he was indi<g ref="char:EOLhyphen"/>ted by per<g ref="char:EOLhyphen"/>ſons out<g ref="char:EOLhyphen"/>lawed: and the Judges of the Bench-R would not proceed a<g ref="char:EOLhyphen"/>bout in<g ref="char:EOLhyphen"/>dictment.</note>
+               </p>
+               <p n="2">2. The inquiry by men outlawed is good, the ob<g ref="char:EOLhyphen"/>jection that he is not <hi>Legalis Homo;</hi> and to that I anſwer, that he admitting ſix outlawed perſons diſabled, yet the inquiry by the ſix others onely, is good, becauſe the ſta<g ref="char:EOLhyphen"/>tute deſigns not any number; but I agree that as well within this ſtatute as at Common Law, there ought to be twelve to make an inquiry; for the inquiry upon this ſta<g ref="char:EOLhyphen"/>tute is of the ſame conſequence, being the ground of the commiſsioners decree, and which concerns the liberty and eſtates of men; alſo I agree an outlawed man not to be a good Juror, but <hi>Distinguend a ſunt tempora,</hi> for if it ap<g ref="char:EOLhyphen"/>pears before oath, there he ſhall not be ſworn, but being once admitted to his oath, there he ſhall be judged <hi>Legalis Homo,</hi> for one before oath may be thought a partial man, who after oath ſhall be thought indifferent, ſo as
+<pb n="7" facs="tcp:96554:7"/> after ſolemne debate one was admitted to his oath in Par<g ref="char:EOLhyphen"/>liament, notwithſtanding outlawry.</p>
+               <p n="3">3. The Commiſſioners of Sewers have a Court incident, true it is that a court by this ſtatute is not expreſſly or<g ref="char:EOLhyphen"/>dained. And upon this hath been objected the con<g ref="char:EOLhyphen"/>ſequence of <hi>Dr. Bouhams</hi> caſe <hi>Rep.</hi> 8.<note place="margin">8. Rep. 11. 9.</note> the caſe of the City of <hi>London</hi> which have not a court; ſo the commiſſioners upon the ſtatute of Bankrupts, have not a court upon their commiſſion out of Chancery, <hi>ad audiendum &amp; ter<g ref="char:EOLhyphen"/>minandum,</hi> yet they are inabled to hold a court; but theſe caſes depend upon their particular reaſons, as if a commiſſion out of Chancery gives a power to have a court, then the ſame caſe would depend in two courts, as well in this new court, as in Chancery, and as to the commiſsion upon the ſtatute of Bankrupts, and the caſes of the 8. <hi>Rep.</hi> they are but miniſteriall offices, and not Ju<g ref="char:EOLhyphen"/>dicial offices, but this ſtatute calls the commiſſioners Juſtices of Sewers, which implicitly alſo gives a court of record; as alſo the ſtatute appoints legall proceedings, proceſs, Bayliffe, a clerk, a regiſter, their power to make diſtreſſes &amp;c. And Error cannot but be brought before theſe commiſſioners, and upon theſe is the authority grounded, in the 6. <hi>Rep. Gregoryes</hi> caſe.</p>
+               <p n="4">4. This court is well held <hi>die ſolis;</hi> the ſtatute of <hi>W.</hi> 1. hath been urged of my part to warrant it: but <hi>I</hi> agree Sunday not to be within this law, for the ſtatute does not mention the particular day of Sunday, but onely any continued Feaſt, as in Advent, &amp;c.</p>
+               <p>And within theſe holy times &amp;c. Eſſoyns hath been well taken; and then it hath beeen objected, that here is a Judiciall act, whereas <hi>Dies Solis</hi> is not <hi>Dies Juridicus,</hi> as a Proclamation upon that day voyd, and the pleas ought to be entred, <hi>Craſtinum Quind<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. Paſc.</hi> and not
+<pb n="8" facs="tcp:96554:8"/> 
+                  <hi>Quin. Paſc.</hi> becauſe Sunday: So a <hi>ſcire fac. die ſolis</hi> not good, but the difference does not hold onely between miniſte<g ref="char:EOLhyphen"/>riall and judiciall acts, but between judiciall acts and ci<g ref="char:EOLhyphen"/>vil caſes, and caſes of neceſſity; for judiciall acts, <hi>propter neceſſitat. &amp; pro bone publico,</hi> upon that day are good, as up<g ref="char:EOLhyphen"/>on the approach of an enemy, the taking up of armes lawful; ſo if fire happen, the ſame reaſon of wa<g ref="char:EOLhyphen"/>ter, which is an enemy not to be repealed but in this court, and the danger as well in one caſe as in the other, equal &amp; iminent; <hi>Mich:</hi> 16. <hi>Iac.</hi> the Hundred of <hi>Stoke</hi> was char<g ref="char:EOLhyphen"/>ged with a robbery, <hi>Die ſolis,</hi> &amp; it is common experience that Coronors <hi>(Die ſolis)</hi> ſate upon the dead corps, which by delay would become noyſome.</p>
+               <p n="5">5. The Mill erected during the time of inundation well proſtrated; for it was an impediment and hindrance of water, ſo that the land for a long time continued ſurroun<g ref="char:EOLhyphen"/>ded, and then it is a nuſance to be proſtrated: And it was lately reſolved, where the Lord <hi>Popham</hi> having a Mill which did not grind during the inundation, he was advi<g ref="char:EOLhyphen"/>ſed to re-edifie a new one to grind for ſuch a time, the Mil ſo continued untill the time of Sir <hi>Francis,</hi> and after ob<g ref="char:EOLhyphen"/>ſerving the prejudice and nuſance (as aforeſaid) the pul<g ref="char:EOLhyphen"/>ling it down was reſolved to be good.</p>
+               <p n="6">6. The tenant diſclaimes the avowry, yet well taxed; for notwithſtanding the diſclaimer he continues tenant, and there is a difference between a diſclaimer in reall actions,<note place="margin">18. H. 6. 10.</note> and in avowries: for in reall actions there be<g ref="char:EOLhyphen"/>ing a demand of the tenancy upon a diſclaimer, it ſhall be judged to the demandant:<note place="margin">16. H. 7. 10</note> and the plea of the diſclaimer in the caſe of the Abbot is not becauſe Mortmaine which implyes mutation of poſſeſſion, but in an avowry the Frank tenemnt is not altered by the diſclaimer, but the Lord ought to have his writ of right of diſclaimer, and by that ſhal recover the land.</p>
+               <pb n="9" facs="tcp:96554:8"/>
+               <p>The Lord after the diſclaimer, cannot be taxed neither for the land or for the rent, for the tenancy continues, and yet the rent by the diſclaimer is immediately loſt; and as to this, there is a difference between a Ceſſer and a diſclaimer for after Ceſſer, the tenant may tender his rent to ſave his tenancy, but after diſclaimer, the Lord notwithſtanding any tender ſhall recover the Land.</p>
+            </div>
+            <div type="part">
+               <head>That C. is not well taxed within this Law.</head>
+               <p n="1">1. Hee cannot bee charged in reſpect of the Mill, for the damage did not happen by his default; nei<g ref="char:EOLhyphen"/>ther hath he damage by the inundation;<note place="margin">
+                     <hi>Qu<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ.</hi> wherefore he is not taxed for the land on which the Mill ſtood.</note> for then he might onely grind; neither hath he profit by the repai<g ref="char:EOLhyphen"/>ration, becauſe the mill is pulled downe: As to tythes, I conceive them not chargeable; for notwithſtanding the generall words of <hi>ſtatus cujuſque ſtatus &amp;c.</hi> yet without particular words of Eccleſiaſtical livings, they ſhall not be charged <hi>onere ſeculari,</hi> as they are excepted from toll. Otherwiſe of Glebe land, for that is not ſo ſacred; but comes through temporal hands: And as to the caſes of contribution for finding of armes, relieveing of the poor,<note place="margin">N. B. 228.</note> is in reſpect of particular caſes concerning it; ſo of ſub<g ref="char:EOLhyphen"/>ſidies in reſpect of their particular grants; ſo of wayes: ſo that without a ſpecial ſtatute, tythes ſhall not be con<g ref="char:EOLhyphen"/>tributory to temporal charges; otherwiſe as to Eccle<g ref="char:EOLhyphen"/>ſiaſtical: but if they ſhal be contributory to ſhipmoney, Querie, For there was inſtructions taken with the writ, that the taxe upon Clergie men, ſhould not be any pre<g ref="char:EOLhyphen"/>judice as to their legall exemption from temporall char<g ref="char:EOLhyphen"/>ges: Alſo tythes are lyable to a temporall charge or taxe, after that they come into temporall hands; but
+<pb n="10" facs="tcp:96554:9"/> here they continue ſpiritual, wherefore not well taxed; Alſo the arable land doth not appear to be ſur<g ref="char:EOLhyphen"/>rounded, and then neither damage or profit.</p>
+               <p n="8">8. The Levellers chargable, notwithſtanding particular te<g ref="char:EOLhyphen"/>nure; yet I agree the tenure to be good, 11. <hi>H.</hi> 7. 12. 1. <hi>Rep. Porters</hi> caſe: But here it appears the tenant to be unable, for he hath but an acre, where all the wall is broken; alſo the Diruption is <hi>per impetum ma<g ref="char:EOLhyphen"/>ris</hi>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="day">
+            <pb n="11" facs="tcp:96554:9"/>
+            <head>
+               <hi>The Second Day.</hi> How a tax ſhall be aſſest by this Law.</head>
+            <p>A Man ſhall not be taxed according to his ability by no Law or Statute, but the 27. <hi>Eliz. Cap.</hi> 13. where by the expreſs words (upon a robbery done) thoſe of the Hundred ſhall be taxed according to their abilities, 12 <hi>Iac. B. R:</hi> the pariſhoners of <hi>Tuttenham,</hi> aſſeſſe a Mer<g ref="char:EOLhyphen"/>chant of <hi>London</hi> a pariſhoner there for the repairing the Church, and the tax was according to his abilities; and notwithſtanding they pretended cuſtome, yet the Kings Bench awarded a prohibition, becauſe the cuſtomes was againſt law; for if ſo, then perchance one or two ſhould onely be burthened, where the benefit would be in com<g ref="char:EOLhyphen"/>mon; againſt this reaſon, <hi>Quod omnes tangit ab omnibus ſup<g ref="char:EOLhyphen"/>portari debet,</hi> ſhall be expounded according to the quali<g ref="char:EOLhyphen"/>ty, as in the ſtatute of <hi>Quia reputores &amp;c.</hi> for the rate ought not to be Arithmeticall, but Geometricall: And note the intention of the Statute is not <hi>magna</hi> or <hi>parva</hi> but <hi>media.</hi>
+            </p>
+            <p>He cannot be double charged, as a Copy-holder can, nor be taxed for his Copy-hold,<note place="margin">11. H 4: 35.</note> and the Lord for his Frank-tenement and if there be a diſtreſs upon the Lord
+<pb n="12" facs="tcp:96554:10"/> treſpaſs lies againſt the Officer <hi>non obstante,</hi> the colour of this Commiſſion.</p>
+            <p>Lord and Commoners may be both charged, for they have ſeverall profits, the tenant may be taxed for the land, and the Lord for the rent; ſo the Grantee of a rent charge, or a Rent ſeck, but the commiſſioners are not bound to examin the particular eſtates or incumbranees; but they may taxe the land ſeverally; and upon complaint of the tenant he ſhall be received by equitie, and the taxe ſhall be devided; for otherwiſe the tenant might be char<g ref="char:EOLhyphen"/>ged above the value of the profits of the land by him re<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>Differences of repair; They are annual and accidental, ordinary and extraordinary: A Reverſioner having a rent ſhall be taxed for the rent, as well to ordinary as extra<g ref="char:EOLhyphen"/>ordinary repairs; and if he have no rent, yet he ſhall contribute to extraordinary; but if it be a remainder or a reverſion upon a leaſe for years onely; there ſhall be a contribution to ordinary repairs.</p>
+            <div type="case">
+               <head>The Caſe.</head>
+               <p>After Survey and preſentment made, that the port of <hi>A.</hi> was greivouſly in decay, and not repairable but upon unuſuall charge; and that B. for cauſe of frontage, and C. for cauſe of a paſſage, and the Village of A by cuſtom have uſed joyntly to repair it, and that D. a Merchant of <hi>London</hi> tradeing there, had promiſed to one of the commiſſioners, that if they duely executed their com<g ref="char:EOLhyphen"/>miſſion, he would ſtand charged to pay 100. pounds to<g ref="char:EOLhyphen"/>wards the repair: The commiſſioners thereupon tax <hi>B.</hi> and <hi>C.</hi> and the Village of <hi>A.</hi> and four other Villages in the High-lands adjoyning, ſeverally to repair the part,
+<pb n="13" facs="tcp:96554:10"/> and D. the 100. pounds and make warrants to the offi<g ref="char:EOLhyphen"/>cers to levy the ſums by diſtreſſes and ſale without allow<g ref="char:EOLhyphen"/>ance of replevins, where by law it might be denyed. The Officers deſtreyne D in <hi>London;</hi> and all the Vills pay but B. and C. Being diſtreyned bring replevins, which the Officers refuſe to allow, and they ſell the diſ<g ref="char:EOLhyphen"/>treſſe.</p>
+            </div>
+            <div type="part">
+               <head>All theſe taxes good and well levied within this Law.</head>
+               <p n="1">1. Firſt the Upland-towns adjoyning, are well taxed by this Law; for, firſt the inhabitants are adjoyning, and then they may ſuffer damage by decay of the Port, or they may receive benefit by the repair, as well in trade<g ref="char:EOLhyphen"/>ing by import, and export in time of peace, as in time of war opporunity for exporting of Souldiers. Then theſe Inhabitants have <hi>Salvationem Defenſionem &amp; Commodum;</hi>
+                  <note place="margin">
+                     <hi>31.</hi> Aſ<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Pla. <hi>10.</hi>
+                  </note> o<g ref="char:EOLhyphen"/>therwiſe it is of towns remote; which <hi>(non obstante)</hi> da<g ref="char:EOLhyphen"/>mage or profit received, ſhall not be taxed becauſe they are not adjoyning.</p>
+               <p n="2">2. Town-ſhip may be taxed generally, againſt the caſe of the <hi>Iſle</hi> of <hi>Ely, Rep.</hi> 10. For although the firſt words of the ſtatute ſeem to direct a particular tax to be aſſeſt upon every poſſeſſor of land, &amp;c. yet the clauſe concludes generally, <hi>according to the directions, &amp;c.</hi>
+                  <note place="margin">35.38. <hi>Aſ<gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </note> So that it may be convenient for the Commiſsioners to aſ<g ref="char:EOLhyphen"/>ſeſs a ſum in groſs upon a Village; and after ſub-divide the ſame; <hi>Magna Charta</hi> 15. <hi>A</hi> taxe levied in the ſame manner, and upon the Statute of <hi>Wincheſter;</hi> an amerci<g ref="char:EOLhyphen"/>ament of a town, good.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:96554:11"/>
+               <head>
+                  <hi>4. Jac:</hi> A decree from the Council Table with advice of all Judges,<note place="margin">
+                     <hi>Dr.</hi> &amp; Stu<g ref="char:EOLhyphen"/>dent: <hi>74.</hi>
+                  </note> that ſuch a taxe is good.</head>
+               <p n="3">3. D. Tradeing there, and promiſing, &amp;c. is well tax<g ref="char:EOLhyphen"/>ed; true it is that loſs in tradeing is ſuſtained by inunda<g ref="char:EOLhyphen"/>tion: yet I agree, that loſs only does not ſuffice, unleſs he be an inhabitant alſo;<note place="margin">
+                     <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Rep. <hi>Witemans</hi> caſe.</note> but I rely upon his promiſe, which as well makes a man chargeable,as a tenure or preſcrip<g ref="char:EOLhyphen"/>tion; and it is a legall conſideration to ſupport that pro<g ref="char:EOLhyphen"/>miſe. The objection, that to the King it is no good con<g ref="char:EOLhyphen"/>ſideration, becauſe he is bound <hi>ex officio,</hi> ſo here; for the good execution of commiſsioners: Firſt the caſe object<g ref="char:EOLhyphen"/>ed may well be doubted; but admitting it good law, yet the caſes differ; For the King is bound without election, ſo no conſideration; otherwiſe of a commiſsioner, who may refuſe to be a Governor: But admiting no good con<g ref="char:EOLhyphen"/>ſideration in law, yet he is bound in conſcience. And as to that difference between <hi>nudum, &amp; pactum</hi> ſimply, and promiſe to good uſes, or <hi>pro bono publice,</hi> the commiſ<g ref="char:EOLhyphen"/>ſioners may make it cumpulſitory, for they have a court of equity, and may as well charge as receive by e<g ref="char:EOLhyphen"/>quity.</p>
+               <p>A diſtreſs of <hi>D.</hi> in <hi>London,</hi> or in any other town good within this law: as to the lands or goods to be taxed, they are limited to their Juriſdiction; But upon a re<g ref="char:EOLhyphen"/>fuſuall of payment, a diſtreſs in any part of the Realm, is a lawfull diſtreſs; of common right it is upon the land, or where there is a charge <hi>ratione tenurae,</hi> and upon pre<g ref="char:EOLhyphen"/>ſentment before the commiſſioners <hi>ratione tenure;</hi> awar<g ref="char:EOLhyphen"/>ded to Officers, it is miniſteriall onely, and ſhall not be taken but upon the land; but if ſo judiciall a diſtreſs be awarded there in any part of the Realm <hi>(non abſtante)</hi> the tenure ſhal be good.</p>
+               <pb n="15" facs="tcp:96554:11"/>
+               <p>
+                  <hi>B:</hi> and <hi>C:</hi> are well taxed, and the <hi>Tax</hi> well levied by ſale, without allowing the <hi>Replevin;</hi> in reſpect of the Frontage or Paſſage they might have damage or profit, (for it is intended of a private paſſage) and then the tax without queſtion is good, and the ſale without the Re<g ref="char:EOLhyphen"/>plevin, for the levy is not ſatisfied by the diſtreſs of the Officers, becauſe they ought to collect and lay out; but they cannot lay out without ſale. And although a Diſtreſs is not generally ſaleable in ſo many dayes, yet being here in this caſe where a Replevin does not lie at common Law; it ſhall be good: 3 <hi>H.</hi> 7. 4. A Diſtreſs for an a<g ref="char:EOLhyphen"/>merciament in a Leet may be ſold.<note place="margin">2<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> A<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. 7<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 7. H. 4. 25. 21 H. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 40 11 H<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4. 6.</note> And admitting a Re<g ref="char:EOLhyphen"/>plevin did lie, yet being a Diſtreſs made by a ſuperior Court, the ſheriff cannot make a replevin: Otherwiſe of the <hi>C. C<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Dyer</hi> 67. 5 <hi>Rep. Rooks</hi> caſe.</p>
+            </div>
+         </div>
+         <div n="3" type="day">
+            <pb n="16" facs="tcp:96554:12"/>
+            <head>
+               <hi>The third Day.</hi> What ſhall be a lawful Arrest, Ordinan<g ref="char:EOLhyphen"/>ces, <hi>Denovo,</hi> where good; and what Caſes are determinable by the Commiſ<g ref="char:EOLhyphen"/>ſioners.</head>
+            <p>IN theſe particulars the Power of theſe Commiſſio<g ref="char:EOLhyphen"/>ners extend further then all other ſtatutes; for the Au<g ref="char:EOLhyphen"/>thority is not bounded by preſcribed rules, but it is left to their diſcretion; and yet abſolute power given them to compel obedience to their Ordinances: Wiſdom is here coupled with Diſcretion, and alſo the addition <hi>[Good]</hi> ac<g ref="char:EOLhyphen"/>cording to their good diſcretion and wiſdom; diſcretion is <hi>Generalis ſpecialis aut legalis:</hi> Every wiſe man diſpatches every buſineſs with a general diſcretion, and yet that diſ<g ref="char:EOLhyphen"/>cretion ſubmits to others; for <hi>Nemini opportet eſſe ſapienti<g ref="char:EOLhyphen"/>ori legibus.</hi>
+            </p>
+            <p>The touchſtone of their proceedings within this ſta<g ref="char:EOLhyphen"/>tute, ought to be <hi>Diſcretio ſpecialis &amp; legalis,</hi> and between ſenſe and diſcretion to know what is juſt,<note place="margin">34 H. 6. 24 19 H. 6. 27</note> and <hi>ubiceſſat lex,</hi> to have recourſe to reaſon, and that alſo but in caſes of
+<pb n="17" facs="tcp:96554:12"/> neceſſity, <hi>potest as ordinandi,</hi> gives power to erect new defences: they have power to arreſt the body of a man; and in many caſes where he may be fined, he may be impriſoned.</p>
+            <p>Oppoſition to the legal Ordinances of the Court, is a rebellion, and puniſhable by fine within this Law. An Officer for his neglect finable. Otherwiſe of an Officer not ſworn.<note place="margin">10 H. 6. 6. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rep. <hi>Gregories</hi> caſe.</note> One that makes payment at the time appointed, is not finable, but to be amerced. One for non feaſance amerciable onely: Otherwiſe for miſ<g ref="char:EOLhyphen"/>feaſance. The caſe for which a Fine is impoſed by Act of the court, not traverſable; Otherwiſe it is of a Fine upon a preſentment of the Jury; but all Fines ought to be reaſonable.</p>
+            <p>Fines may be aſſeſt onely in <hi>Plena curia;</hi> for out of court they are not Judges of Record.</p>
+            <p>Fines are not leviable by the Commiſſioners,<note place="margin">11 Rep. <hi>Godfreye</hi> caſe.</note> but ſhal be eſtreated into the Exchequer.</p>
+            <p>Otherwiſe of Juſtices of the peace.</p>
+            <p>And the diffrence ariſes upon the ſeveral pennings of the ſtatutes.</p>
+            <p>Commiſſioners have power to impoſe perpetual charge, <hi>(ſs.)</hi> an annual charge for keeping in repair, and to ſell the land upon refuſal of payment; the Commiſ<g ref="char:EOLhyphen"/>ſioners may not onely decree right, but do right; as wel repeal, as expound ancient laws.</p>
+            <div type="case">
+               <head>The Caſe.</head>
+               <p>The Village of <hi>A</hi> upon a coaſt of the ſea (which had an ancient Bridge upon the river, time out of mind of man, <hi>&amp;c:</hi> utterly decayed) is incorporated by the king that now is, and therefore hath a grant of Pontage; B. e<g ref="char:EOLhyphen"/>rects
+<pb n="18" facs="tcp:96554:13"/> purpreſture, and inhaunces a Mear within the ri<g ref="char:EOLhyphen"/>ver by force, which by former order was deſtroyed; The Commiſſioners upon ſurv<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y and preſentment, upon their diſcretions decree a new bank to reſiſt the Meare, and fortifie the bridge, and the Levellers to make it; the county to re-edifie the bridge, the Village to keep it in repair: <hi>B</hi> is arreſted and impriſoned, and <hi>C</hi> to pay a hundred marks.</p>
+            </div>
+            <div type="points">
+               <head>The POINTS.</head>
+               <p n="1">1 All theſe acts are juſtifiable by the commiſſioners within this Law; Grant of Pontage good. It hath been objected, that the King may grant a thing tending to charge people, and <hi>Davis's Reports, fol:</hi> 15. it is expreſs, that Pontage cannot be granted, but it lies onely in preſcription,<note place="margin">
+                     <hi>Rep. 1.</hi> Al<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nwoods <hi>caſe.</hi> Plow. <hi>426.</hi> Rep. <hi>5 55.</hi> Rep. <hi>11. 73.</hi>
+                  </note> as of other things lying ingrant onely, and not in preſcription; but cleerly, Pontage as well lies in grant, as in preſcription. But true it is, that Pontage for a bridge before built, is void; for there it is but a charge to the ſubject; but Pontage for a bridge to be erected new, is warrantable; for there it is, <hi>Quid pro quo.</hi> Alſo admitting the ancient bridge, then Pontage is incident, unleſs preſcription lie under; as the caſe between <hi>Heedy</hi> and <hi>Wheeler,</hi> it is reſolved, that toll is incident to an ancient faire,<note place="margin">
+                     <hi>38</hi> Eliz. <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. R. Rot. <hi>9<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>3.</hi>
+                  </note> unleſs preſcription to the contrary: So of Pontage to a bridge <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2 Commiſſioners may erect <hi>a novo.</hi>
+               </p>
+               <p>The objection, That an <hi>ad quod damnum</hi> ought to iſ<g ref="char:EOLhyphen"/>ſue firſt; but here is a great circumſpection; for it is not a truſt to a ſingle perſon onely, as <hi>Eſcheator,</hi> but af<g ref="char:EOLhyphen"/>ter ſurvey of commiſſioners oaths. Another objection, That the ſtatute of <hi>H.</hi> 6: gives this power by <hi>Expreſſe
+<pb n="19" facs="tcp:96554:13" rendition="simple:additions"/> Words:</hi> ſo that without expreſs words, power is not granted. But I conceive, although the ſtatute of <hi>H.</hi> 6 be temporary, yet it continues, and our ſtatute hath ſome coherence with the words of the ſtatute of <hi>H.</hi> 6 and upon the ſame reaſon was a ſolemn Decree grounded at the Council table, That commiſſioners might erect <hi>de novo;</hi> and the difference was there taken between a ſtatute expired, and a ſtatute repealed; for where a ſta<g ref="char:EOLhyphen"/>tute is repealed, there an inconvenience appears, and a repeal is made in diſallowance; but where a ſtatute ex<g ref="char:EOLhyphen"/>pires onely, there it hath once an allowance, and no check in diſallowance.</p>
+               <p n="3">3 The county is well charged to re-edifie the bridg, and the village well charged to repair it: the queſtion is grounded upon 22 <hi>H.</hi> 8. <hi>of Bridges,</hi> by which it is e<g ref="char:EOLhyphen"/>nacted, that every village incorporate ſhal repair brid<g ref="char:EOLhyphen"/>ges of the ſame village, and the others are left to the county charge, unleſs there be a particular tenure or preſcription, then there cannot be preſcription, becauſe the decay is <hi>before time of memory,</hi> &amp;c: neither is the vil<g ref="char:EOLhyphen"/>lage bound to repair it, becauſe that the corporation was made after the decay, alſo it was a village in the county charged at the time of the ſtatute; for it is cor<g ref="char:EOLhyphen"/>porate in the time of the King alſo: although it be a village incorporate, yet not being a county-town, it con<g ref="char:EOLhyphen"/>tinues within the county at large; but after erection, the charge of the village to repair it is good, for the village hath Pontage: <hi>Et qui ſentit emu debet ſentire commodum.</hi>
+               </p>
+               <p>
+                  <hi>B:</hi> was well arreſted and impriſoned for the pur<g ref="char:EOLhyphen"/>preſture;<note place="margin">Kelw. <hi>141 7 H. <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 33. 19 H 6. 8; 33</hi> E. <hi>3. 8.</hi> Da. Rep. <hi>6.</hi> De Roy. P<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſchar<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</note> for purpreſture may be as well in water as in the high-way, and this without force, but amer<g ref="char:EOLhyphen"/>ciable: but pupreſture or anuſance with force fine<g ref="char:EOLhyphen"/>able,
+<pb n="22" facs="tcp:96554:14"/> and then if finable, impriſonment follows of con<g ref="char:EOLhyphen"/>ſequence.</p>
+               <p n="5">5 The fine of <hi>C.</hi> to an hundred marks, is reaſon<g ref="char:EOLhyphen"/>able: and I ſhall not help my ſelf by aggravating of the offence with contempt, being to re-edifie after pul<g ref="char:EOLhyphen"/>ling down by Decree: but I hold, that here he can<g ref="char:EOLhyphen"/>not be fined to a greater or leſſer ſum, and the words of the ſtatute are expreſs, <hi>ſcil. Statute</hi> 1 <hi>Hen.</hi> 4: <hi>cap.</hi> 12</p>
+            </div>
+         </div>
+         <div n="4" type="day">
+            <pb n="21" facs="tcp:96554:14"/>
+            <head>
+               <hi>The fourth Day,</hi> VVhat caſes are to be determined within this Law.</head>
+            <p>IF a tax be impoſed upon <hi>A:</hi> and the goods of <hi>B.</hi> are diſtrained for it, <hi>B:</hi> ſhall have an action of treſ<g ref="char:EOLhyphen"/>paſs in the court of Sewers.</p>
+            <p>Officers and ſervants, as Carpenters and Maſons, <hi>&amp;c.</hi> imployed by the commiſſioners, ſhall recover their wages of the commiſſioners in this court, becauſe the original cauſe ariſes by this court: Otherwiſe where it ariſes out of this court, as the caſe of <hi>Vaux</hi> and <hi>Gib<g ref="char:EOLhyphen"/>bons,</hi> which was referred to the Council-table: but where a thing originally belongs to the court of Sewers,<note place="margin">1 <hi>R.</hi> 3.4.</note> that ſhall warrant all the proceedings alſo, for the ac<g ref="char:EOLhyphen"/>ceſsary follows his principal.</p>
+            <p>Where a townſhip is taxed with a ſum in groſs, and a man diſtrains for it, he ſhall have proceſs out of this court for aſseſſing of the ſum after ſale of the land for
+<pb n="20" facs="tcp:96554:15"/> non-payment, where the Officers by Decrees of this court, takes trees upon the land of one man, and digs a trench upon the land of another man, both ſhall re<g ref="char:EOLhyphen"/>cover damages for the land, and alſo for the trees, a<g ref="char:EOLhyphen"/>gainſt the levellers in this court: But if <hi>A:</hi> was charge<g ref="char:EOLhyphen"/>able by this law, and <hi>B</hi> diſſeiſes him, yet <hi>B.</hi> ſhall have no remedy by this law.</p>
+            <p>A preſentment in a Leet or Turn not traverſable un<g ref="char:EOLhyphen"/>leſs they concern the frank-tenement, and then I con<g ref="char:EOLhyphen"/>ceive it ought to be removed into the Kings bench; and the reaſon why perſonal torts are not traverſable, is I conceive,<note place="margin">
+                  <hi>ii</hi> Rep. Bags <hi>caſe. 8</hi> Rep Bon<g ref="char:EOLhyphen"/>haws <hi>caſe.</hi>
+               </note> becauſe <hi>de minimis non curat lex,</hi> and there<g ref="char:EOLhyphen"/>fore no proceſs to compel him to anſwer in this court.</p>
+            <p>No traverſe againſt a return of a ſherif, or a Major and commonalty, but preſentments before Juſtices of the peace are traverſable: So a preſentment before Juſtices of <hi>Oyer</hi> and <hi>Terminer, Sta<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi> 183. 83: 30 <hi>Aſſ.</hi> 57: 37 <hi>Aſs.</hi> part: 45: <hi>E.</hi> 3: 26. <hi>Plowd.</hi> 397. <hi>Charter of Rumney Marſh, fol.</hi> 23, 24 and <hi>Godfrey</hi> was preſented for not repairing, and his traverſe was admitted to be good, for otherwiſe the words of the ſtatute were in vain: All traverſes framed according to Law, ſhall be allow'd in this court.</p>
+            <div type="case">
+               <head>The Caſe:</head>
+               <p>Upon ſurvey againſt <hi>A</hi> upon a preſentment againſt <hi>B</hi> &amp; <hi>C</hi> upon decree for ſale againſt <hi>D</hi> and againſt the fa<g ref="char:EOLhyphen"/>ther of E A tenders his traverſe, <hi>B</hi> preſcribes in <hi>non reparando, C</hi> pleads that he and <hi>F</hi> ought to join in re<g ref="char:EOLhyphen"/>pairing, <hi>D</hi> pleads that he was within age at the time of the decree, and <hi>E</hi> that he is ſon and heir of the donee, againſt whom the decree was made:</p>
+               <pb n="21" facs="tcp:96554:15"/>
+               <p>All theſe traverſes and pleas are diſallowed by the Juſtices of Sewers, and well within this law.</p>
+               <p>The ſurvey of the Commiſsioners not traverſable.<note place="margin">M. <hi>Holborn</hi>
+                  </note>
+               </p>
+               <p>A ſurvey is ſuppoſed to be by the court, and ſo it is a record. But I doubt if the commiſsioners may make a record to charge the ſubject, they may by the ſtatute come and proſtrate; but they are reſtrained by the o<g ref="char:EOLhyphen"/>ther words for charging: If they be Judges of the de<g ref="char:EOLhyphen"/>fault, yet they are not Judges upon what the default lies. for the ſtatute ſays it ſhall be by enquiry: Alſo it is not poſsible they ſhould upon coming determine upon any caſes, for they cannot view if the will was made before the time of E.M. and then they ought not to proſtrate it; but if they can make a record, that is not traverſa<g ref="char:EOLhyphen"/>ble, for it is made by them as Judges; for commiſsion<g ref="char:EOLhyphen"/>ers of Sewers are a court of <hi>Oyer</hi> and <hi>Terminer;</hi>
+                  <note place="margin">14 H. 8. 7 H. 4.</note> and what a man does as Judge, that is not traverſable, for it is preſumed to be juſt.</p>
+               <p>If Juſtices of Peace view the high-wayes,<note place="margin">
+                     <hi>i</hi> Mar. Dyer Vernous <hi>caſe. 19</hi> Aſſ. <hi>6. 1 H. 4.</hi>
+                  </note> and make entries of it, it is equivalent to a preſentment, and there no traverſe: So of ſurveys of the commiſsioners who are made Judges: But a preſentment of a Jury without queſtion is traverſable.</p>
+               <p>The commiſsion of Sewers is part of the general po<g ref="char:EOLhyphen"/>wer of the general commiſsion of <hi>Oyer</hi> and <hi>Terminer;</hi>
+                  <note place="margin">Rep. 2. Marqueſs <hi>Wincheſt.</hi> caſe.</note> but the queſtion is, If the preſcription of a <hi>non reperan<g ref="char:EOLhyphen"/>do,</hi> be good, it is void at common Law, for it is againſt reaſon: but as before, <hi>Quod omnes tangit ab omnibus de<g ref="char:EOLhyphen"/>b<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ſupportari,</hi> a Clergy man may preſcribe in <hi>non deci<g ref="char:EOLhyphen"/>mando,</hi> but a Layman cannot, becauſe he was not capa<g ref="char:EOLhyphen"/>ble of taking of tythes; and of a clergy man it was rea<g ref="char:EOLhyphen"/>ſon, becauſe it might be that he was diſcharged anci<g ref="char:EOLhyphen"/>ently by contract, but in our caſe the King has intereſt,
+<pb n="24" facs="tcp:96554:16" rendition="simple:additions"/> and therefore it belongs to him to diſcharge, &amp; preſcri<g ref="char:EOLhyphen"/>ption is not good againſt him; but if it were good at common law, yet this ſtatute takes it away, becauſe the words are general,<note place="margin">Rinney Marſh Cha. fol. <hi>13. 39.</hi>
+                  </note>
+                  <hi>(Every man, rich or poor, &amp;c.)</hi> For Wreck there may be a preſcription, <hi>Non obstante,</hi> the ſtatute of prerogative: In <hi>London</hi> there is a cuſtom, and they preſcribe, That he that ſerves an apprentiſhip to one trade, may ſet up any, 5 <hi>Eliz.</hi> 5. <hi>Noy</hi> ſaid, That that ſtatute being general in the negative, takes away ſuch cuſtoms. But the ſame was over all the realm.</p>
+               <p>
+                  <hi>C.</hi> pleads that he and <hi>F.</hi> ought to join in the repair: No good plea; For among joynt-tenants, every one is charged with the repair of the whole, for there is to be no diviſion amongſt them; for when one poſſeſses all, it would be inconvenient and difficult to find all the Joynt-tenants: True it is, for avoiding of damages joynt-tenancy is a good plea, for there he cannot help himſelf; but in our caſe the commiſsioners have a court of equity, and have power to relieve and make diſtribution. There might have been the Writ <hi>De repa<g ref="char:EOLhyphen"/>ration faciend.</hi>
+                  <note place="margin">N.B. 234. 235</note> 
+                  <hi>de onerand. pro rata portion;</hi> ſo the ſta<g ref="char:EOLhyphen"/>tute of <hi>Marleborough</hi> for ſuit, to have the other tenants contribute. So upon 27 <hi>Eliz.</hi> 13. upon Hue and cry contribution.</p>
+               <p n="3">3 Infancy at the time of the Decree, no good plea; but the ſale ſhall bind the Infant <hi>in perpetuum.</hi>
+               </p>
+               <p>
+                  <hi>Littleton</hi> ſayes, that in ſuch a caſe Latches ſhall not prejudice the Infant. Now where the benefit of the <hi>Common-wealth</hi> is concerned, and the words of the ſta<g ref="char:EOLhyphen"/>tute are general, there the infant is to be bound, for the <hi>Common-wealth</hi> is the greater favourite of the Law, ſtatute 4 <hi>H.</hi> 7. <hi>of Fines that ſhall bind Infants;</hi> for there is no expreſs <hi>ſaving</hi> for them: So the ſtatute of
+<pb n="25" facs="tcp:96554:16" rendition="simple:additions"/> 
+                  <hi>Limitations,</hi> 19 <hi>H.</hi> 8. but there is a difference where the ſtatute charges the poſſeſsions, of the Infant, there he ſhall be bound, but the perſon of the Infant is more favoured. But though they may not during his non-age,<note place="margin">7 E. 3. age 88. <hi>Plow.</hi> 359. 459. 21 E. age 54.</note> yet at his full age they ſhall be charged for the default of his infancy; ſo of the ſtatute of waſte; but the per<g ref="char:EOLhyphen"/>ſon of the infant ſhall be excuſed. As the ſtatute of <hi>Westm.</hi> 2. enacted, that he that pleaded a record, and failed of it, ſhould be impriſoned, yet an infant ſhall not. Now in our caſe where the ſtatute is made <hi>pro bo<g ref="char:EOLhyphen"/>no publico,</hi>
+                  <note place="margin">4 H. 7. 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Fitz. aſſ.</hi> 443. Im<g ref="char:EOLhyphen"/>priſon. 17. 14 Aſſ. 18. 21.</note> and the infants perſon not touched by the Decree, neither is there any prejudice to the infant be<g ref="char:EOLhyphen"/>cauſe the commiſsioners are Judges intruſted by the Law to do equity. Alſo ſo it is of a Feme Covert, ſo I conceive for the reaſons aforeſaid that he is bound by this ſtatute.</p>
+               <p n="5">5 The heir of a gift in tale, is chargeable upon a Decree againſt his anceſtor; but that ought to be ſup<g ref="char:EOLhyphen"/>poſed upon a complaint to be relieved in equity, that it cannot be a plea againſt the decree is determined: The queſtion is grounded upon the ſtatute <hi>De donis con<g ref="char:EOLhyphen"/>ditionalibis,</hi> which ſayes, that neither <hi>Factum,</hi> nor <hi>Feof<g ref="char:EOLhyphen"/>fament</hi> of the Donee ſhall prejudice his iſſue. Now there are many ſtatutes that do not extend to preju<g ref="char:EOLhyphen"/>dice theſe Eſtates, the ſtatute of 16 <hi>R.</hi> 2. of forfeiture of all lands upon Premunire, extends not to taile, be<g ref="char:EOLhyphen"/>cauſe the general words of the ſtatute are meerly pe<g ref="char:EOLhyphen"/>nal; but ſtatutes that are for the publike good, if they be general, extend to it, as 4 <hi>H.</hi> 7. of Fines, 3 <hi>Rep.</hi> 8. and the Law takes it, that a demiſe of a tenant in tail, ſhould bind the iſſue, until the 34 <hi>H.</hi> 8. and upon the 42 <hi>Eliz.</hi> of charitable uſes, a conveyance by Donee ſhall bind the iſsue in tail, becauſe it is beneficial to
+<pb n="26" facs="tcp:96554:17"/> him, but the 26 <hi>H.</hi> 8. for forfeiture for treaſon ſhall not bind the Eſtate tail, becauſe 'tis penal: Now our ſtatute being <hi>(any Eſtate)</hi> if it ſhould not reach to e<g ref="char:EOLhyphen"/>ſtates tail, the words would operate nothing; and it may be all the Lands chargeable may be in taile, at the ſame time, and then there would be no lands chargea<g ref="char:EOLhyphen"/>ble if the ſtatute did not extend to tails, and ſo be ſold; yet I conceive there be ſom lands that cannot be ſold by this law, as of a corporation that makes default, their lands ſhall be ſold within this law, if it be ſuch a corpo<g ref="char:EOLhyphen"/>ration which may perpetually charge their ſucceſsor: otherwiſe of a corporation that cannot bind themſelvs, as a <hi>Prebend, Parſon, Dean,</hi> and <hi>Chapter,</hi> and <hi>Biſhop, &amp;c.</hi> For the ſtatute of 13 <hi>Eliz.</hi> ſayes, that no act or convey<g ref="char:EOLhyphen"/>ance by them to be made or ſuffered, ſhall bind their ſucceſſors: But the general words of our ſtatute makes the ſucceſsors chargeable. And although the ſtatute <hi>de Donis, &amp;c.</hi> protects the iſsue, yet they may be well charged within this law.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:96554:17" rendition="simple:additions"/>
+               <head>The Reader.</head>
+               <p>If <hi>A.</hi> by ſurvey being found faulty for non-feaſance, he may traverſe it by this law; this law hath two ſur<g ref="char:EOLhyphen"/>veyors, the commiſsioners themſelves, who may come and ſurvey.</p>
+               <p n="2">2 Officers, as aſsiſtants and Jurors. If the Jury make a preſentment that J. <hi>S.</hi> ought to repair by rea<g ref="char:EOLhyphen"/>ſon of his tenure, that preſentment is void, for the jury ought not to enquire of that; but if they preſent that J. <hi>S.</hi> hath nor repaired as he was charged to do, thats good; and in this caſe to the preſentment of the Jury the party may tender his traverſe, becauſe the Jurors are onely aſsiſtants to the Court for occaſion, but not Judges; but the ſurvey of the commiſsioners themſelves ſhall not be traverſable, becauſe it is the act of the court, and it is done as Judge, and not by ſpecial au<g ref="char:EOLhyphen"/>thority, as commiſsioners of bankrupts. And if a Ju<g ref="char:EOLhyphen"/>ſtice of peace ſurvey the force, and makes a record of it, that is not traverſable, becauſe 'tis done as Judge of it.</p>
+               <p>Preſcription for <hi>non reparando,</hi> is good; for the words of the ancient commiſsion are <hi>Cujuſcun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſtatus condi<g ref="char:EOLhyphen"/>tion. &amp;c.</hi> ſo the words of the ſtatute, <hi>Every man which ſhall reap benefit,</hi> although a preſcription <hi>pro modo</hi> is good; and according to the ſpecial matter his preſcri<g ref="char:EOLhyphen"/>ption may be good, as if <hi>B.</hi> had pleaded that his land had lain between the ſea and the ſea-bank, &amp; preſcribes for diſcharge of his land, there the preſcription is good. Otherwiſe of a preſcription generally, <hi>Joynt-tenancy,</hi> is not a good plea; for repairation being a publike
+<pb n="28" facs="tcp:96554:18"/> work, and of neceſſity it ſhall not be pleaded; but all the land ſhall be charged in groſs.</p>
+               <p n="4">
+                  <note place="margin">9 Rep. <hi>Co<g ref="char:EOLhyphen"/>nyers</hi> caſe.</note>4 Infancy no good plea for the manner, becauſe it is after the Decree, which is the final judgement, and he is put to his bill of review before the commiſsio<g ref="char:EOLhyphen"/>ners.</p>
+               <p n="5">
+                  <note place="margin">44 E. 3. 22</note>5 That the iſsue ſhall be bound as aforeſaid. A rent granted by tenant in tail for releaſe of him who had the right, this ſhall bind the heir becauſe 'tis for his be<g ref="char:EOLhyphen"/>nefit. And in our ſtatute there is the word <hi>(Heir)</hi> which would be void unleſs it included the Eſtates tail. Alſo this plea is void for the manner, <hi>Rationa predict.</hi> of Infancy.</p>
+            </div>
+         </div>
+         <div n="5" type="day">
+            <pb n="29" facs="tcp:96554:18"/>
+            <head>
+               <hi>The Fifth Day.</hi> VVas upon the power of the Commiſsion<g ref="char:EOLhyphen"/>ſioners to determine, and what Lands, and for what cauſes they may be ſold, what perſons liable to be charged.</head>
+            <p>LAnds to be charged within the decree, ought to be within the bounds of the Commiſsioners; but there is a difference between locality for a decree, &amp; for a di<g ref="char:EOLhyphen"/>ſtreſs; for the diſtreſs may be in any part of the Realm, <hi>Non compos mentis, Infants, &amp;c</hi> are bound by this ſtatute; ſo of a Parſon, Prebend, <hi>&amp;c.</hi> and other corporations; but as to their ſucceſsors, the corporation within the ſtatute of 13 <hi>Eliz.</hi> is out of this ſtatute, for they can<g ref="char:EOLhyphen"/>not by any act to be done or ſuffered, prejudice their ſucceſsors.</p>
+            <div type="case">
+               <head>The Caſe.</head>
+               <p>
+                  <hi>A.</hi> ſeiſed of lands left by the ſea, <hi>B.</hi> and <hi>C.</hi> tenants in common of other lands, and <hi>D.</hi> copy-holder of a<g ref="char:EOLhyphen"/>nother acre; <hi>A.</hi> is aſseſt 2 <hi>d. B.</hi> &amp; <hi>C.</hi> 20 <hi>s.</hi> for their a<g ref="char:EOLhyphen"/>cre,
+<pb n="30" facs="tcp:96554:19"/> and <hi>D.</hi> to 20 <hi>s.</hi> for his acre; <hi>A. B.</hi> and <hi>D</hi> refuſe payment, and the commiſsioners decree the ſale of the acre of <hi>A</hi> and the moyety of the acre of <hi>C</hi> and <hi>D</hi>
+               </p>
+            </div>
+            <div type="points">
+               <head>The POINTS.</head>
+               <p>The Decree for none of theſe ſales is good.</p>
+               <p>Lands left by the ſea is not within this commiſsion; for there is a difference between lands gain'd from the ſea, and land left by the ſea; for the lands abſolutely gained, may be more beneficial, and it is within the le<g ref="char:EOLhyphen"/>vel; but this land left, is between the ſea, and the ſea-banks, ſo that there can be no benefit by the repaira<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="2">2 The ſale of the copyhold land is not good, for then the copy hold eſtate ſhould be altered without the privity of the Lord: Otherwiſe of a tax.</p>
+               <p n="3">3 Tenants in common being taxed, and refuſe, the ſale of the moyety is not good, for the tax is joint, and ſhall not double, as upon a grant of a rent; and then the tax being intire, (and no partition of the Eſtate) a diviſion by ſale of the moyety, is not good and warrantable; for a tenant in common cannot prejudice his companion as to his land; and upon every ſale Commiſsioners ought to take notice of Eſtates. Otherwiſe upon a tax.</p>
+            </div>
+         </div>
+         <div n="6" type="day">
+            <p>
+               <hi>The ſixth day nothing was done, but repetition of the former days exerciſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96554:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
